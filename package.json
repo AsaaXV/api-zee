@@ -1,7 +1,7 @@
 {
-  "name": "xfarr-api",
-  "version": "1.0.2",
-  "description": "YNTKTS",
+  "name": "api-zee",
+  "version": "0.0.1",
+  "description": "Coba untuk add package ke npm",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,16 +12,18 @@
     "request": "^2.88.2"
   },
   "keywords": [
-    "xfar-api"
+    "api",
+    "apikey",
+    "bot"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xfar05/xfarr-api.git"
+    "url": "git+https://github.com/zeeoneofc/api-zee.git"
   },
-  "author": "XFar",
+  "author": "zeeoneofc",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xfar05/xfarr-api/issues"
+    "url": "https://github.com/zeeoneofc/api-zee/issues"
   },
-  "homepage": "https://github.com/xfar05/xfarr-api#readme"
+  "homepage": "https://github.com/zeeoneofc/api-zee#readme"
 }
