@@ -1,6 +1,6 @@
 {
   "name": "api-zee",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Coba untuk add package ke npm",
   "main": "main.js",
   "scripts": {
